@@ -1,2 +1,4 @@
 # cse326project
-This is our first frontend wespage
+This is our first frontend webpage
+<br>
+Author- Shivang
